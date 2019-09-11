@@ -1,0 +1,85 @@
+body{
+	background:url("imgs/fondo.jpg")no-repeat center center fixed;
+	background-size:cover;
+	margin: 0 auto;
+	padding: 0;
+	color: white;
+	font-family: sans-serif;
+}
+#wrapper{
+	width: 90%;
+	height: auto;
+	/*background:darkred;*/
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba();
+
+
+}
+#heading{
+	font-size: 48px;
+
+}
+
+h1{
+	color: gray;
+
+}
+#Typeofcult{
+
+}
+#One{
+	background: yellow;
+	width: 29.9%
+	height:auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+
+}
+#Two{
+background: blue;
+	width: 29.9%
+	height:auto;
+	margin: 12px;
+	padding: 12px;
+display: inline-block;
+}
+#Three{
+background: purple;
+	width: 29.9%
+	height:auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+#One #feautured-image{
+background: url("imgs/rave.jpg");
+background-size: cover;
+width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+	#Two #feautured-image{
+background: url("imgs/disco.jpg");
+background-size: cover;
+width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+		#Three #feautured-image{
+background: url("imgs/grafitti.jpg");
+background-size: cover;
+width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+
+
+}
+h2{
+
+}
